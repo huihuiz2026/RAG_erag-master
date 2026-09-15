@@ -18,7 +18,7 @@
 
 ## 2. 执行
 
-- 环境安装参见项目：[RAG全栈技术实战指南-环境安装文档](https://git.imooc.com/coding-920/RAG_full_stack_course_notebooks/src/master/install "")
+- 环境安装参见项目
 
 - 项目启动
 
